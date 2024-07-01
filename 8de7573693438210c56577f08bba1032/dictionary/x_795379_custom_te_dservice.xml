@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="09a81f7693438210c56577f08bba108e" extends="task" label="dservice" max_length="40" name="x_795379_custom_te_dservice" type="collection"/>
+</database>
